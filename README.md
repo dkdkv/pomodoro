@@ -2,7 +2,7 @@
 
 A simple and efficient Pomodoro Timer built with .NET MAUI.
 
-![Pomodoro Timer Screenshot](./screenshot.png)
+![Pomodoro Timer Screenshot](./Screenshot.png)
 
 ## About
 
